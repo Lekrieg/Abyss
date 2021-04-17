@@ -8,9 +8,20 @@ Everyone can use!
 
 # **Libs used** <h2>
 - **Opengl**
+- **GLAD**
 
 ## **What is already done** <h2>
 - [ ]
 
 ## **todo** <h2>
-- [ ] Project setup
+- [ ] Basic engine
+	- [ ] Level editor
+		- [ ] Game viewport
+			- [ ] Camera
+			- [ ] Gizmos
+		- [ ] Inspector
+		- [ ] Tileset window
+		- [ ] Quest maker
+		- [ ] Folder system
+	- [ ] Basic physics
+	- [ ] Audio system

@@ -1,14 +1,15 @@
-# **Abyss** <h1>
+# **Abyss Forge** <h1>
 
-Basic open source 2D game engine for __**Linux**__(initially).
+Basic open source game engine for __**Windows**__(initially).
 
 Project made for practice game dev and do some fun games.
 
-Everyone can use!
+Everyone can use or modify!
 
 # **Libs used** <h2>
-- **Opengl**
+- **SDL2**
 - **GLAD**
+- **Dear ImGUI**
 
 ## **What is already done** <h2>
 - [ ]
@@ -23,5 +24,6 @@ Everyone can use!
 		- [ ] Tileset window
 		- [ ] Quest maker
 		- [ ] Folder system
-	- [ ] Basic physics
-	- [ ] Audio system
+	- [ ] Graphics engine
+	- [ ] Physics engine
+	- [ ] Audio engine
